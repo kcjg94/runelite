@@ -149,7 +149,6 @@ enum ItemIdentification
 
 	SCRAPEY_TREE_LOGS(Type.LOGS, "Scrapey", "SCRAP", ItemID.SCRAPEY_TREE_LOGS),
 
-
 	LOG(Type.LOGS, "Log", "LOG", ItemID.LOGS),
 	ACHEY_TREE_LOG(Type.LOGS, "Achey", "ACH", ItemID.ACHEY_TREE_LOGS),
 	OAK_LOG(Type.LOGS, "Oak", "OAK", ItemID.OAK_LOGS),
